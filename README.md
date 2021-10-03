@@ -1,4 +1,4 @@
-## Esse é um gerador de CPF
+## Gerador de CPF 
 
 Esse programa gera um número de CPF válido e formatado.
 
